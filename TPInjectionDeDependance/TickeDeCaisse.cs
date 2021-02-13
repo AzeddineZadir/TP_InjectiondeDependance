@@ -7,10 +7,18 @@ namespace TPInjectionDeDependance
     class TickeDeCaisse
     {
         List<Produit> achats;
-
-        public TickeDeCaisse(List<Produit> achats)
+        ChargementDeParametres chargeur;
+        public ChargementDeParametres ChargementParametre
+        {
+            set
+            {
+                this.chargeur = value;
+            }
+        }
+        public TickeDeCaisse(List<Produit> achats )
         {
             this.achats = achats;
+            
         }
            
         public void  ScanneProduits(Produit p)
@@ -44,7 +52,7 @@ namespace TPInjectionDeDependance
         public ParamsClient GetParmsClient(int id )
         {
            
-            ChargementDeParametres chargeur =new  ChargementDeParametres();
+
             chargeur.connect();
             
             return chargeur.GetParams(id); ;
