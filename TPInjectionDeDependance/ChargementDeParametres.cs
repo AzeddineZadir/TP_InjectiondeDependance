@@ -4,14 +4,14 @@ using System.Text;
 
 namespace TPInjectionDeDependance
 {
-    class ChargementDeParametres
+    class ChargementDeParametres :IChargementDeParametre
     {
 
 
         private SystemCentral System { get; set; }
         
 
-        public void connect()
+        public void Connect()
         {
             System = new SystemCentral();
 

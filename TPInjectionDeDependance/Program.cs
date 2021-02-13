@@ -28,7 +28,10 @@ namespace TPInjectionDeDependance
             Produit p3 = new Produit(10, 3);
             Produit p4 = new Produit(50, 4);
             achete.Add(p1);achete.Add(p2);achete.Add(p3);achete.Add(p4);
-           // TickeDeCaisse tk = new TickeDeCaisse(achete);
+            
+            
+            
+            TickeDeCaisse tk = new TickeDeCaisse(achete ,new ChargementDeParametres() );
             tk.PrintTicketCaisse(c1.numero);
 
         }
