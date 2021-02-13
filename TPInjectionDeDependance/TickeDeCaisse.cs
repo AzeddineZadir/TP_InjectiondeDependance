@@ -8,17 +8,10 @@ namespace TPInjectionDeDependance
     {
         List<Produit> achats;
         ChargementDeParametres chargeur;
-        public ChargementDeParametres ChargementParametre
-        {
-            set
-            {
-                this.chargeur = value;
-            }
-        }
-        public TickeDeCaisse(List<Produit> achats )
+        public TickeDeCaisse(List<Produit> achats , ChargementDeParametres chargeur)
         {
             this.achats = achats;
-            
+            this.chargeur = chargeur; 
         }
            
         public void  ScanneProduits(Produit p)
