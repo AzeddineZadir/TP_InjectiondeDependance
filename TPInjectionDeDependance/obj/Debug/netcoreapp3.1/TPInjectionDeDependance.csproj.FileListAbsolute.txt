@@ -1,0 +1,13 @@
+C:\Users\SILVER_PRO\source\repos\TPInjectionDeDependance\obj\Debug\netcoreapp3.1\TPInjectionDeDependance.csprojAssemblyReference.cache
+C:\Users\SILVER_PRO\source\repos\TPInjectionDeDependance\obj\Debug\netcoreapp3.1\TPInjectionDeDependance.AssemblyInfoInputs.cache
+C:\Users\SILVER_PRO\source\repos\TPInjectionDeDependance\obj\Debug\netcoreapp3.1\TPInjectionDeDependance.AssemblyInfo.cs
+C:\Users\SILVER_PRO\source\repos\TPInjectionDeDependance\obj\Debug\netcoreapp3.1\TPInjectionDeDependance.csproj.CoreCompileInputs.cache
+C:\Users\SILVER_PRO\source\repos\TPInjectionDeDependance\bin\Debug\netcoreapp3.1\TPInjectionDeDependance.exe
+C:\Users\SILVER_PRO\source\repos\TPInjectionDeDependance\bin\Debug\netcoreapp3.1\TPInjectionDeDependance.deps.json
+C:\Users\SILVER_PRO\source\repos\TPInjectionDeDependance\bin\Debug\netcoreapp3.1\TPInjectionDeDependance.runtimeconfig.json
+C:\Users\SILVER_PRO\source\repos\TPInjectionDeDependance\bin\Debug\netcoreapp3.1\TPInjectionDeDependance.runtimeconfig.dev.json
+C:\Users\SILVER_PRO\source\repos\TPInjectionDeDependance\bin\Debug\netcoreapp3.1\TPInjectionDeDependance.dll
+C:\Users\SILVER_PRO\source\repos\TPInjectionDeDependance\bin\Debug\netcoreapp3.1\TPInjectionDeDependance.pdb
+C:\Users\SILVER_PRO\source\repos\TPInjectionDeDependance\obj\Debug\netcoreapp3.1\TPInjectionDeDependance.dll
+C:\Users\SILVER_PRO\source\repos\TPInjectionDeDependance\obj\Debug\netcoreapp3.1\TPInjectionDeDependance.pdb
+C:\Users\SILVER_PRO\source\repos\TPInjectionDeDependance\obj\Debug\netcoreapp3.1\TPInjectionDeDependance.genruntimeconfig.cache
